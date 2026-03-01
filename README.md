@@ -21,22 +21,22 @@
 
 <div align="center">
   <a href="https://www.facebook.com/soydiego.dev/">
-    <img src="assets/img_facebook.png" width="165" alt="Facebook">
+    <img src="assets/img_facebook.png" width="150" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/soydiego.dev/">
-    <img src="assets/img_instagram.png" width="165" alt="Instagram">
+    <img src="assets/img_instagram.png" width="150" alt="Instagram">
   </a>
   <a href="LINK_DISCORD">
-    <img src="assets/img_discord.png" width="165" alt="Discord">
+    <img src="assets/img_discord.png" width="150" alt="Discord">
   </a>
   <a href="LINK_YOUTUBE">
-    <img src="assets/img_youtube.png" width="165" alt="YouTube">
+    <img src="assets/img_youtube.png" width="150" alt="YouTube">
   </a>
   <a href="https://www.twitch.tv/thedieggox">
-    <img src="assets/img_twitch.png" width="165" alt="Twitch">
+    <img src="assets/img_twitch.png" width="150" alt="Twitch">
   </a>
   <a href="https://www.linkedin.com/in/soydiegodev/">
-    <img src="assets/img_linkedin.png" width="165" alt="LinkedIn">
+    <img src="assets/img_linkedin.png" width="150" alt="LinkedIn">
   </a>
 </div>
 
